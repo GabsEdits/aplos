@@ -6,7 +6,7 @@
     "pages:preview": "vitepress preview pages"
   },
   "dependencies": {
-    "aplos": "1.6.0"
+    "aplos": "2.3.1"
   },
   "devDependencies": {
     "sass": "^1.77.4",
